@@ -1,6 +1,7 @@
 
 <p align="center"> 
-  ### Olá! Eu sou o Phillip Lima 🥏</p>
+  ### Olá! Eu sou o Phillip Lima 🥏
+</p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-lima-dev/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://discord.gg/finnbxy)

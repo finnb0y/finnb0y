@@ -1,7 +1,8 @@
 
 ### Olá! Eu sou o Phillip Lima 🥏
 
-<img src="https://raw.githubusercontent.com/finnb0y/finnb0y/output/snake.svg" alt="Snake animation" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-lima-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://discord.gg/finnbxy)
 
 ###
 

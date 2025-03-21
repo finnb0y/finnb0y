@@ -1,6 +1,29 @@
 
 ###
 
+<h1 align="center">Olá! Eu sou Phillip Lima 👋</h1>
+
+<p align="center">
+🎯 Atualmente, estou aprendendo a programar e aprimorando minhas habilidades em desenvolvimento.<br>
+📚 No momento estou fazendo uma formação pela Oracle One na plataforma da Alura. <br> 
+🎠 Estou aprendendo linguagens como JavaScript, HTML, CSS, Java e Python.<br>
+🤖 Tenho grande interesse em Inteligência Artificial e aprendizado de máquina, utilizando PyTorch para treinamento de modelos.<br>
+🚀 Sempre buscando aprender e criar coisas novas!
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Phillip%20Lima-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/users/seu-id-discord">
+    <img src="https://img.shields.io/badge/Discord-finnbxy-5865F2?style=flat-square&logo=discord" alt="Discord">
+  </a>
+  <a href="https://www.instagram.com/seu-perfil-instagram">
+    <img src="https://img.shields.io/badge/Instagram-%40phiiII-E4405F?style=flat-square&logo=instagram" alt="Instagram">
+  </a>
+</p>
 
 
 ###

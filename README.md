@@ -14,13 +14,13 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin">
+  <a href="https://www.linkedin.com/in/phillip-lima-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Phillip%20Lima-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://discord.com/users/seu-id-discord">
+  <a href="https://discord.com/login">
     <img src="https://img.shields.io/badge/Discord-finnbxy-5865F2?style=flat-square&logo=discord" alt="Discord">
   </a>
-  <a href="https://www.instagram.com/seu-perfil-instagram">
+  <a href="https://www.instagram.com/phiill">
     <img src="https://img.shields.io/badge/Instagram-%40phiiII-E4405F?style=flat-square&logo=instagram" alt="Instagram">
   </a>
 </p>
@@ -54,9 +54,9 @@
 
 <div align="center">
   <img src="https://i.imgur.com/HjUXjVN.png" width="48" alt="linkedin logo"  />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=Phillip+Lima+Dev" alt="Typing SVG" /></a><br/>
+  <a href="https://www.linkedin.com/in/phillip-lima-dev/"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=Phillip+Lima" alt="Typing SVG" /></a><br/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" alt="discord logo"  />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=finnbxy" alt="Typing SVG" /></a><br/>
+  <a href="https://discord.com/login/"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=finnbxy" alt="Typing SVG" /></a><br/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" alt="instagram logo"  />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=@phiill" alt="Typing SVG" /></a><br/>
+  <a href="https:/instagram.com/phiill"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=@phiill" alt="Typing SVG" /></a><br/>
 </div>

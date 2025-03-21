@@ -1,7 +1,9 @@
+<div align="center">
+  <img height="253" src="https://i.imgur.com/s0mimZ6.gif"/>
+</div>
 
-###
+##
 
-<h1 align="center">Olá! Eu sou Phillip Lima 👋</h1>
 <a align="center" href="https://www.linkedin.com/in/phillip-lima-dev/"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=20&duration=4000&pause=1000&color=F7F7F7&vCenter=true&repeat=true&width=435&lines=Sobre+mim" alt="Typing SVG" /></a><br/>
 
 <p align="left">
@@ -12,7 +14,7 @@
 🎻 Sempre buscando aprender e criar coisas novas!
 </p>
 
----
+##
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phillip-lima-dev/">
@@ -52,7 +54,7 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://i.imgur.com/HjUXjVN.png" width="48" alt="linkedin logo"  />
   <a href="https://www.linkedin.com/in/phillip-lima-dev/"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=Phillip+Lima" alt="Typing SVG" /></a><br/>
@@ -60,4 +62,10 @@
   <a href="https://discord.com/login/"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=finnbxy" alt="Typing SVG" /></a><br/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" alt="instagram logo"  />
   <a href="https://instagram.com/phiill"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=@phiill" alt="Typing SVG" /></a><br/>
+</div>
+-->
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=finnb0y&locale=enm&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>

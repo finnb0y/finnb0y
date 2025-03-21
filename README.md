@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phillip-lima-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Phillip%20Lima-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+   <img src="https://img.shields.io/badge/LinkedIn-Phillip%20Lima-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://discord.com/login">
-    <img src="https://img.shields.io/badge/Discord-finnbxy-5865F2?style=flat-square&logo=discord" alt="Discord">
+   <img src="https://img.shields.io/badge/Discord-finnbxy-5865F2?style=flat-square&logo=discord" alt="Discord">
   </a>
   <a href="https://www.instagram.com/phiill">
-    <img src="https://img.shields.io/badge/Instagram-%40phiiII-E4405F?style=flat-square&logo=instagram" alt="Instagram">
+   <img src="https://img.shields.io/badge/Instagram-%40phiiII-E4405F?style=flat-square&logo=instagram" alt="Instagram">
   </a>
 </p>
 

@@ -2,13 +2,14 @@
 ###
 
 <h1 align="center">Olá! Eu sou Phillip Lima 👋</h1>
+<a align="center" href="https://www.linkedin.com/in/phillip-lima-dev/"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=20&duration=4000&pause=1000&color=F7F7F7&vCenter=true&repeat=true&width=435&lines=Sobre+mim" alt="Typing SVG" /></a><br/>
 
 <p align="left">
-🎯 Atualmente, estou aprendendo a programar e aprimorando minhas habilidades em desenvolvimento.<br>
-📚 No momento estou fazendo uma formação pela Oracle One na plataforma da Alura. <br> 
+🤿 Atualmente, estou aprendendo a programar e aprimorando minhas habilidades em desenvolvimento.<br>
+🧦 No momento estou fazendo uma formação pela Oracle One na plataforma da Alura. <br> 
 🎠 Estou aprendendo linguagens como JavaScript, HTML, CSS, Java e Python.<br>
-🤖 Tenho grande interesse em Inteligência Artificial e aprendizado de máquina, utilizando PyTorch para treinamento de modelos.<br>
-🚀 Sempre buscando aprender e criar coisas novas!
+🥏 Tenho grande interesse em Inteligência Artificial e aprendizado de máquina, utilizando PyTorch para treinamento de modelos.<br>
+🎻 Sempre buscando aprender e criar coisas novas!
 </p>
 
 ---
@@ -58,5 +59,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" alt="discord logo"  />
   <a href="https://discord.com/login/"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=finnbxy" alt="Typing SVG" /></a><br/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" alt="instagram logo"  />
-  <a href="https:/instagram.com/phiill"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=@phiill" alt="Typing SVG" /></a><br/>
+  <a href="https://instagram.com/phiill"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=25&duration=1500&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=@phiill" alt="Typing SVG" /></a><br/>
 </div>

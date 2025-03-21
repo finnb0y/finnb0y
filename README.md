@@ -3,7 +3,7 @@
 
 <h1 align="center">Olá! Eu sou Phillip Lima 👋</h1>
 
-<p align="center">
+<p align="left">
 🎯 Atualmente, estou aprendendo a programar e aprimorando minhas habilidades em desenvolvimento.<br>
 📚 No momento estou fazendo uma formação pela Oracle One na plataforma da Alura. <br> 
 🎠 Estou aprendendo linguagens como JavaScript, HTML, CSS, Java e Python.<br>
